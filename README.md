@@ -1,5 +1,5 @@
 # FirstClass_Interior_Agile
-We are working on a project at a software development company called "Smith private Limited". Our company produces web solutions for businesses and individuals throughout New Zealand. 
-Our purpose is to create a website which is interactive and user friendly.
+This project was for Techtorium, for a fake company called Smith private Limited.
+It's purpose is to allow this fake company to run their buisness from the web, and is user friendly. 
 
-Made by Dylan, Brendon, James and Cassidy
+Credits: Dylan, Brendon, James and Cassidy
