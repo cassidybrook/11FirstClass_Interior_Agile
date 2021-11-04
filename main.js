@@ -56,3 +56,4 @@ window.addEventListener("load", async () => {
     title = document.getElementsByTagName("title")[0].innerHTML += " - " + title(page)
   }, 50);
 });
+
